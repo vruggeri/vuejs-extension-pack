@@ -1,0 +1,38 @@
+{
+    "name": "vuejs-extension-pack",
+    "displayName": "Vue.js Extension Pack",
+    "description": "Popular VS Code extensions for Vue.js development providing Syntax highlighting, Code format, Code snippets, IntelliSense, Linting support, npm & node tools.",
+    "version": "0.0.1",
+    "publisher": "Prodam",
+    "repository": {
+        "url": "https://github.com/vruggeri/vuejs-extension-pack"
+    },
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "galleryBanner": {
+      "color": "#333333",
+      "theme": "dark"
+    },
+    "homepage": "https://github.com/vruggeri/vuejs-extension-pack",
+    "icon": "vuejs-icon.png",
+    "keywords": [
+        "vue",
+        "node",
+        "javascript",
+        "typescript"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "formulahendry.auto-complete-tag",
+        "octref.vetur",
+        "xabikos.javascriptsnippets",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "tombonnike.vscode-status-bar-format-toggle",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "sdras.vue-vscode-snippets"
+    ]
+}
