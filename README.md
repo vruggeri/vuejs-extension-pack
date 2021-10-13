@@ -1,5 +1,9 @@
 # Vue.js Extension Pack
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/prodam.vuejs-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.vuejs-extension-pack)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/prodam.vuejs-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=prodam.vuejs-extension-pack)
+
+
 This extension pack adds features for Vue.js development.
 
 ## Recommended ESlint setup
